@@ -1,6 +1,6 @@
 # Hi, I'm Carlos C Soto (eclipxe/eclipxe13)
 
-[![GitHub followers](https://img.shields.io/github/followers/eclipxe13?label=eclipxe13&logo=github&style=flat-square)](github.com/eclipxe13/)
+[![GitHub followers](https://img.shields.io/github/followers/eclipxe13?label=eclipxe13&logo=github&style=flat-square)](https://github.com/eclipxe13?tab=followers)
 [![Twitter @eclipxoide](https://img.shields.io/twitter/follow/eclipxoide?label=%40eclipxoide&logo=twitter&style=flat-square)](https://twitter.com/eclipxoide)
 [![Discord](https://img.shields.io/discord/459860554090283019?label=eclipxe&logo=discord&style=flat-square)](https://discord.gg/aFGYXvX)
 [![Website](https://img.shields.io/badge/eclipxe.com.mx-web-blueviolet?style=flat-square)](https://eclipxe.com.mx)
